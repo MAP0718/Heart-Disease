@@ -7,7 +7,7 @@ data = {
     "sex": 1,
     "cp": 3,
     "trestbps": 145,
-    "chol": ,
+    "chol": 2.1,
     "fbs": 1,
     "restceg": 0,
     "thalach": 150,
